@@ -2,9 +2,7 @@
 Run this code to make your community model with Matlab
 
 Dependencies: Matlab_R2018b, ILOG_Cplex v.12.8, at least one model in .mat format 
-
-To run this package you will need to have at least CPLEX 12.8
-Specify all locations at the begining of the file
+Specify their locations at the begining of the Two_Org_Ratio
 
 To run the code run Two_org_ratio, which depends on the function Make_Ratio_Com
 This code works with all BiGG format GSM and with the new yeast model from Charlmers https://github.com/SysBioChalmers/yeast-GEM
